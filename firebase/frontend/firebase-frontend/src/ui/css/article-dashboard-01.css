@@ -169,6 +169,15 @@
   position: absolute;
   width: calc(100.00% - 30px);
 }
+.article-dashboard-01 .button-may3U1 {
+  background-color: transparent;
+  bottom: 90px;
+  cursor: pointer;
+  height: 56px;
+  left: 15px;
+  position: absolute;
+  width: calc(100.00% - 30px);
+}
 .article-dashboard-01 .button-vtxZZ1 {
   background-color: var(--dodger-blue);
   border-radius: 10px;
