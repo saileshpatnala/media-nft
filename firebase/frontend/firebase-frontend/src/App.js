@@ -42,7 +42,7 @@ const uiConfig = {
 
 class Checker extends React.Component {
   render() {
-    var link = "/art?articleID=" + this.props.articleID + "&truthValue=";
+    var link = "/art?img=" + this.props.img + "&articleID=" + this.props.articleID + "&truthValue=";
     var truth = "True";
     if (this.props.score == "-1") {
       truth = "False";
@@ -62,7 +62,7 @@ class Checker extends React.Component {
             ><span class="span1-MrZXuK franklingothicurw-med-normal-black-18px"><br /></span
             ><span class="span2-MrZXuK franklingothicurw-boo-normal-white-18px">{this.props.desc}</span>
           </div>
-          <img class="article-container-CPmwxB" src="img/article-container-5@1x.png" />
+          <img class="article-container-CPmwxB" src={this.props.img} />
           <img class="scroll-icon-CPmwxB" src="img/scroll-icon-5@1x.png" />
           <img class="icon-CPmwxB" src="img/icon-75@1x.png" />
         </div>
@@ -128,7 +128,7 @@ class Checker extends React.Component {
               <div class="button-vtxZZ1"></div>
               <div class="submit-vtxZZ1 franklingothicurw-med-normal-alabaster-24px">False</div>
             </div></a>
-          <div class="user-information-text-may3U0 arial-regular-normal-white-28px">Article Truth Value</div>
+          <div class="user-information-text-may3U0 arial-regular-normal-white-28px">Modify Truth Value</div>
         </div>
       </div>
     );
@@ -155,6 +155,12 @@ class Articles extends React.Component {
     var desc5 = "Desc";
     var link5 = base_link + "fake";
 
+    var img1 = "img/mask-group-3-12@1x.png";
+    var img2 = "img/mask-group-3-13@1x.png";
+    var img3 = "img/mask-group-3-10@1x.png";
+    var img4 = "img/mask-group-3-11@1x.png";
+    var img5 = "img/mask-group-2-1@1x.png";
+
     if (articles != null && articles.length >= 5) {
       name1 = articles[0].name;
       name2 = articles[1].name;
@@ -168,11 +174,11 @@ class Articles extends React.Component {
       desc4 = articles[3].content;
       desc5 = articles[4].content;
 
-      link1 = base_link + articles[0].id;
-      link2 = base_link + articles[1].id;
-      link3 = base_link + articles[2].id;
-      link4 = base_link + articles[3].id;
-      link5 = base_link + articles[4].id;
+      link1 = base_link + articles[0].id + "&img=" + img1;
+      link2 = base_link + articles[1].id + "&img=" + img2;
+      link3 = base_link + articles[2].id + "&img=" + img3;
+      link4 = base_link + articles[3].id + "&img=" + img4;
+      link5 = base_link + articles[4].id + "&img=" + img5;
     }
     return (
       <div>
@@ -274,7 +280,7 @@ class Screen extends React.Component {
     this.fetchArticles();
   }
 
-  async updateArticleScore(id, value) {
+  async updateArticleScore(id, value, img) {
     const apiUrl = 'https://p35l1ls53m.execute-api.us-east-1.amazonaws.com/dev/article_score';
     const token = await firebase.auth().currentUser?.getIdToken();
     const user = firebase.auth().currentUser.uid;
@@ -292,7 +298,7 @@ class Screen extends React.Component {
         score: value
       })
     });
-    window.location.replace("/art?articleID=" + id);
+    window.location.replace("/art?img=" + img + "&articleID=" + id);
   }
 
   render() {
@@ -300,8 +306,9 @@ class Screen extends React.Component {
       const urlParams = new URLSearchParams(window.location.search);
       const articleID = urlParams.get("articleID");
       const truthValue = urlParams.get("truthValue");
+      const img = urlParams.get("img");
       if (articleID != null && truthValue != null) {
-        this.updateArticleScore(articleID, parseInt(truthValue));
+        this.updateArticleScore(articleID, parseInt(truthValue), img);
       }
 
       if (this.state.articles != null && this.state.articles[0] != null) {
@@ -310,12 +317,12 @@ class Screen extends React.Component {
         const desc = this.state.articles[0].content;
         const score = this.state.articles[0].score;
         return (
-          <Checker name={name} desc={desc} score={score} articleID={articleID} />
+          <Checker name={name} desc={desc} score={score} articleID={articleID} img={img} />
         );
       }
 
       return (
-        <Checker name="Temp" desc="Temp" score="1" articleID="id" />
+        <Checker name="Temp" desc="Temp" score="1" articleID="id" img="img" />
       );
     }
     if (this.props.screens == "dash") {
