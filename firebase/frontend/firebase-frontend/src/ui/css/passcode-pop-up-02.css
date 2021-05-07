@@ -1,0 +1,1672 @@
+/* screen - passcode-pop-up-02 */
+
+.passcode-pop-up-02 {
+  background-color: var(--white);
+  height: 1080px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+.passcode-pop-up-02 .background-C61RwL {
+  background-color: var(--black);
+  height: 1080px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+.passcode-pop-up-02 .background-L5QluQ {
+  background-color: var(--white);
+  border-radius: 50px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.passcode-pop-up-02 .background-image-C61RwL {
+  background-color: transparent;
+  height: 1080px;
+  left: 0px;
+  mix-blend-mode: lighten;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+.passcode-pop-up-02 .blur-overlay-C61RwL {
+  -webkit-backdrop-filter: blur(10px) brightness(115%);
+  backdrop-filter: blur(10px) brightness(115%);
+  background-color: transparent;
+  height: 1080px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+.passcode-pop-up-02 .button-L5QluQ {
+  background-color: var(--christine);
+  border-radius: 20px;
+  bottom: 49px;
+  cursor: pointer;
+  height: 75px;
+  left: 42px;
+  position: absolute;
+  width: calc(100.00% - 85px);
+}
+.passcode-pop-up-02 .group-1-abm6Gl {
+  background-color: transparent;
+  bottom: 1px;
+  height: 7px;
+  left: 2px;
+  position: absolute;
+  width: 6px;
+}
+.passcode-pop-up-02 .group-10-n2xsv7 {
+  background-color: transparent;
+  height: calc(100.00% - 12px);
+  left: 5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 5px;
+  width: 47px;
+}
+.passcode-pop-up-02 .group-11-9cbWtE {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.passcode-pop-up-02 .group-12-Kdqw5W {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.passcode-pop-up-02 .group-13-n2xsv7 {
+  background-color: transparent;
+  height: calc(100.00% - 12px);
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 48px;
+}
+.passcode-pop-up-02 .group-14-S9Rx3h {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.passcode-pop-up-02 .group-15-950Kc8 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.passcode-pop-up-02 .group-16-n2xsv7 {
+  background-color: transparent;
+  bottom: 10px;
+  height: 1px;
+  left: 23.96%;
+  mix-blend-mode: normal;
+  position: absolute;
+  width: 2px;
+}
+.passcode-pop-up-02 .group-17-qfaKlX {
+  background-color: transparent;
+  height: 2px;
+  position: absolute;
+  right: 5px;
+  top: 1px;
+  width: 1px;
+}
+.passcode-pop-up-02 .group-18-PfcYZ7 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.passcode-pop-up-02 .group-19-MgiJTR {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.passcode-pop-up-02 .group-2-DxuxZV {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.passcode-pop-up-02 .group-20-n2xsv7 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 56px;
+  mix-blend-mode: normal;
+  position: absolute;
+  right: 0px;
+  width: 44px;
+}
+.passcode-pop-up-02 .group-21-9O9mxD {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.passcode-pop-up-02 .group-22-JQYI34 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.passcode-pop-up-02 .group-23-n2xsv7 {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: calc(100.00% - 12px);
+}
+.passcode-pop-up-02 .group-24-n2xsv7 {
+  background-color: transparent;
+  height: calc(100.00% - 10px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+.passcode-pop-up-02 .group-25-iQSwSs {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.passcode-pop-up-02 .group-26-Xc6uzo {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.passcode-pop-up-02 .group-27-n2xsv7 {
+  background-color: transparent;
+  height: calc(100.00% - 8px);
+  left: 5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 49px;
+}
+.passcode-pop-up-02 .group-28-al0DN3 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.passcode-pop-up-02 .group-29-hsHRXs {
+  background-color: transparent;
+  height: 68px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 64px;
+}
+.passcode-pop-up-02 .group-3-s4tzg4 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.passcode-pop-up-02 .group-4-n2xsv7 {
+  background-color: transparent;
+  height: calc(100.00% - 14px);
+  mix-blend-mode: normal;
+  position: absolute;
+  right: 8px;
+  top: 10px;
+  width: 43px;
+}
+.passcode-pop-up-02 .group-5-ILFXfk {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.passcode-pop-up-02 .group-6-0CjL7T {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.passcode-pop-up-02 .group-7-n2xsv7 {
+  background-color: transparent;
+  height: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  right: calc(33.30% - 1px);
+  top: 2px;
+  width: 2px;
+}
+.passcode-pop-up-02 .group-8-p8t3x7 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.passcode-pop-up-02 .group-9-5FGL97 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.passcode-pop-up-02 .group-HIGd3k {
+  background-color: transparent;
+  height: 75px;
+  left: 380px;
+  position: absolute;
+  top: 0px;
+  width: 75px;
+}
+.passcode-pop-up-02 .group-Mi8rOI {
+  background-color: transparent;
+  height: 75px;
+  left: 285px;
+  position: absolute;
+  top: 0px;
+  width: 75px;
+}
+.passcode-pop-up-02 .group-YIpGAN {
+  background-color: transparent;
+  height: 75px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 75px;
+}
+.passcode-pop-up-02 .group-m9iaYV {
+  background-color: transparent;
+  height: 75px;
+  left: 475px;
+  position: absolute;
+  top: 0px;
+  width: 75px;
+}
+.passcode-pop-up-02 .group-pNVRx7 {
+  background-color: transparent;
+  height: 75px;
+  left: 95px;
+  position: absolute;
+  top: 0px;
+  width: 75px;
+}
+.passcode-pop-up-02 .group-y8Mi67 {
+  background-color: transparent;
+  height: 75px;
+  left: 190px;
+  position: absolute;
+  top: 0px;
+  width: 75px;
+}
+.passcode-pop-up-02 .hero-header-text-C61RwL {
+  background-color: transparent;
+  height: 168px;
+  left: 151px;
+  letter-spacing: 0.00px;
+  line-height: 85px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 444px;
+  width: 957px;
+}
+.passcode-pop-up-02 .how-it-works-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 355px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  position: absolute;
+  text-align: left;
+  top: 82px;
+  white-space: nowrap;
+  width: auto;
+}
+.passcode-pop-up-02 .icon-8VTN69 {
+  background-color: transparent;
+  height: 25px;
+  object-fit: cover;
+  position: absolute;
+  right: 43px;
+  top: 40px;
+  width: 25px;
+}
+.passcode-pop-up-02 .icon-L5QluQ {
+  background-color: transparent;
+  height: 25px;
+  object-fit: cover;
+  position: absolute;
+  right: 43px;
+  top: 40px;
+  width: 25px;
+}
+.passcode-pop-up-02 .login-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1523px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 84px;
+  white-space: nowrap;
+  width: auto;
+}
+.passcode-pop-up-02 .logo-C61RwL {
+  background-color: transparent;
+  height: 68px;
+  left: 71px;
+  position: absolute;
+  top: 76px;
+  width: 212px;
+}
+.passcode-pop-up-02 .logo-exFKkL {
+  background-color: transparent;
+  height: 68px;
+  left: 0px;
+  position: relative;
+  top: -0px;
+  width: 212px;
+}
+.passcode-pop-up-02 .passcode-L5QluQ {
+  background-color: transparent;
+  height: 89px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: calc(22.94% - 20px);
+  width: calc(100.00% + 2px);
+}
+.passcode-pop-up-02 .passcode-display-module-C61RwL {
+  background-color: transparent;
+  height: 647px;
+  left: 581px;
+  position: absolute;
+  top: 217px;
+  width: 760px;
+}
+.passcode-pop-up-02 .path-1-hsHRXs {
+  background-color: transparent;
+  height: 43px;
+  left: 84px;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 45px;
+}
+.passcode-pop-up-02 .path-10-abm6Gl {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.passcode-pop-up-02 .path-11-abm6Gl {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.passcode-pop-up-02 .path-12-abm6Gl {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.passcode-pop-up-02 .path-13-abm6Gl {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.passcode-pop-up-02 .path-14-abm6Gl {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.passcode-pop-up-02 .path-15-abm6Gl {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.passcode-pop-up-02 .path-16-abm6Gl {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.passcode-pop-up-02 .path-17-abm6Gl {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.passcode-pop-up-02 .path-18-abm6Gl {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.passcode-pop-up-02 .path-19-abm6Gl {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.passcode-pop-up-02 .path-2-hsHRXs {
+  background-color: transparent;
+  height: 43px;
+  left: 138px;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 30px;
+}
+.passcode-pop-up-02 .path-20-abm6Gl {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.passcode-pop-up-02 .path-21-abm6Gl {
+  background-color: transparent;
+  height: 29px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 2px);
+}
+.passcode-pop-up-02 .path-22-abm6Gl {
+  background-color: transparent;
+  height: 26px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 3px);
+}
+.passcode-pop-up-02 .path-23-abm6Gl {
+  background-color: transparent;
+  height: 24px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+.passcode-pop-up-02 .path-24-abm6Gl {
+  background-color: transparent;
+  height: 22px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+.passcode-pop-up-02 .path-25-abm6Gl {
+  background-color: transparent;
+  height: 21px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 5px);
+}
+.passcode-pop-up-02 .path-26-abm6Gl {
+  background-color: transparent;
+  height: 20px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 6px);
+}
+.passcode-pop-up-02 .path-27-abm6Gl {
+  background-color: transparent;
+  height: 18px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 6px);
+}
+.passcode-pop-up-02 .path-28-abm6Gl {
+  background-color: transparent;
+  height: 17px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 36px;
+}
+.passcode-pop-up-02 .path-29-abm6Gl {
+  background-color: transparent;
+  height: 16px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 36px;
+}
+.passcode-pop-up-02 .path-3-hsHRXs {
+  background-color: transparent;
+  height: 43px;
+  left: 176px;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 36px;
+}
+.passcode-pop-up-02 .path-30-abm6Gl {
+  background-color: transparent;
+  height: 15px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 35px;
+}
+.passcode-pop-up-02 .path-31-abm6Gl {
+  background-color: transparent;
+  height: 14px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 34px;
+}
+.passcode-pop-up-02 .path-32-abm6Gl {
+  background-color: transparent;
+  height: 14px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 34px;
+}
+.passcode-pop-up-02 .path-33-abm6Gl {
+  background-color: transparent;
+  height: 13px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 33px;
+}
+.passcode-pop-up-02 .path-34-abm6Gl {
+  background-color: transparent;
+  height: 12px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 32px;
+}
+.passcode-pop-up-02 .path-35-abm6Gl {
+  background-color: transparent;
+  height: 11px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 31px;
+}
+.passcode-pop-up-02 .path-355-qfaKlX {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.passcode-pop-up-02 .path-356-qfaKlX {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.passcode-pop-up-02 .path-357-qfaKlX {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.passcode-pop-up-02 .path-358-qfaKlX {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.passcode-pop-up-02 .path-359-qfaKlX {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.passcode-pop-up-02 .path-36-abm6Gl {
+  background-color: transparent;
+  height: 10px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 30px;
+}
+.passcode-pop-up-02 .path-360-qfaKlX {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.passcode-pop-up-02 .path-361-qfaKlX {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.passcode-pop-up-02 .path-362-qfaKlX {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.passcode-pop-up-02 .path-363-qfaKlX {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.passcode-pop-up-02 .path-364-qfaKlX {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.passcode-pop-up-02 .path-365-qfaKlX {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 1px);
+}
+.passcode-pop-up-02 .path-366-qfaKlX {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 1px);
+}
+.passcode-pop-up-02 .path-367-qfaKlX {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 1px);
+}
+.passcode-pop-up-02 .path-368-qfaKlX {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 1px);
+}
+.passcode-pop-up-02 .path-369-qfaKlX {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 1px);
+}
+.passcode-pop-up-02 .path-37-abm6Gl {
+  background-color: transparent;
+  height: 9px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 30px;
+}
+.passcode-pop-up-02 .path-370-qfaKlX {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 2px);
+}
+.passcode-pop-up-02 .path-371-qfaKlX {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 2px);
+}
+.passcode-pop-up-02 .path-372-qfaKlX {
+  background-color: transparent;
+  bottom: 1px;
+  height: 34px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 5px);
+}
+.passcode-pop-up-02 .path-373-qfaKlX {
+  background-color: transparent;
+  bottom: 1px;
+  height: 30px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 6px);
+}
+.passcode-pop-up-02 .path-374-qfaKlX {
+  background-color: transparent;
+  bottom: 1px;
+  height: 28px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 37px;
+}
+.passcode-pop-up-02 .path-375-qfaKlX {
+  background-color: transparent;
+  bottom: 0px;
+  height: 26px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 36px;
+}
+.passcode-pop-up-02 .path-376-qfaKlX {
+  background-color: transparent;
+  bottom: 1px;
+  height: 25px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 35px;
+}
+.passcode-pop-up-02 .path-377-qfaKlX {
+  background-color: transparent;
+  bottom: 1px;
+  height: 23px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 34px;
+}
+.passcode-pop-up-02 .path-378-qfaKlX {
+  background-color: transparent;
+  bottom: 1px;
+  height: 22px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 34px;
+}
+.passcode-pop-up-02 .path-379-qfaKlX {
+  background-color: transparent;
+  bottom: 1px;
+  height: 21px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 33px;
+}
+.passcode-pop-up-02 .path-38-abm6Gl {
+  background-color: transparent;
+  height: 8px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 29px;
+}
+.passcode-pop-up-02 .path-380-qfaKlX {
+  background-color: transparent;
+  bottom: 1px;
+  height: 20px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 32px;
+}
+.passcode-pop-up-02 .path-381-qfaKlX {
+  background-color: transparent;
+  bottom: 1px;
+  height: 19px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 31px;
+}
+.passcode-pop-up-02 .path-382-qfaKlX {
+  background-color: transparent;
+  bottom: 1px;
+  height: 18px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 31px;
+}
+.passcode-pop-up-02 .path-383-qfaKlX {
+  background-color: transparent;
+  bottom: 1px;
+  height: 17px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 30px;
+}
+.passcode-pop-up-02 .path-384-qfaKlX {
+  background-color: transparent;
+  bottom: 1px;
+  height: 16px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 29px;
+}
+.passcode-pop-up-02 .path-385-qfaKlX {
+  background-color: transparent;
+  bottom: 1px;
+  height: 15px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 28px;
+}
+.passcode-pop-up-02 .path-386-qfaKlX {
+  background-color: transparent;
+  bottom: 1px;
+  height: 14px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 27px;
+}
+.passcode-pop-up-02 .path-387-qfaKlX {
+  background-color: transparent;
+  bottom: 1px;
+  height: 13px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 26px;
+}
+.passcode-pop-up-02 .path-388-qfaKlX {
+  background-color: transparent;
+  bottom: 1px;
+  height: 12px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 26px;
+}
+.passcode-pop-up-02 .path-389-qfaKlX {
+  background-color: transparent;
+  bottom: 1px;
+  height: 11px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 25px;
+}
+.passcode-pop-up-02 .path-39-abm6Gl {
+  background-color: transparent;
+  height: 8px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 28px;
+}
+.passcode-pop-up-02 .path-390-qfaKlX {
+  background-color: transparent;
+  bottom: 1px;
+  height: 10px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 23px;
+}
+.passcode-pop-up-02 .path-391-qfaKlX {
+  background-color: transparent;
+  bottom: 1px;
+  height: 9px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 22px;
+}
+.passcode-pop-up-02 .path-392-qfaKlX {
+  background-color: transparent;
+  bottom: 1px;
+  height: 8px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 21px;
+}
+.passcode-pop-up-02 .path-393-qfaKlX {
+  background-color: transparent;
+  bottom: 1px;
+  height: 7px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 19px;
+}
+.passcode-pop-up-02 .path-394-qfaKlX {
+  background-color: transparent;
+  bottom: 1px;
+  height: 6px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 17px;
+}
+.passcode-pop-up-02 .path-395-qfaKlX {
+  background-color: transparent;
+  height: 16px;
+  object-fit: cover;
+  position: absolute;
+  right: 2px;
+  top: 1px;
+  width: 4px;
+}
+.passcode-pop-up-02 .path-396-qfaKlX {
+  background-color: transparent;
+  height: 13px;
+  object-fit: cover;
+  position: absolute;
+  right: 2px;
+  top: 1px;
+  width: 3px;
+}
+.passcode-pop-up-02 .path-397-qfaKlX {
+  background-color: transparent;
+  height: 11px;
+  object-fit: cover;
+  position: absolute;
+  right: 3px;
+  top: 1px;
+  width: 3px;
+}
+.passcode-pop-up-02 .path-398-qfaKlX {
+  background-color: transparent;
+  height: 9px;
+  object-fit: cover;
+  position: absolute;
+  right: 3px;
+  top: 1px;
+  width: 3px;
+}
+.passcode-pop-up-02 .path-399-qfaKlX {
+  background-color: transparent;
+  height: 8px;
+  object-fit: cover;
+  position: absolute;
+  right: 3px;
+  top: 0px;
+  width: 3px;
+}
+.passcode-pop-up-02 .path-4-abm6Gl {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.passcode-pop-up-02 .path-40-abm6Gl {
+  background-color: transparent;
+  height: 7px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 27px;
+}
+.passcode-pop-up-02 .path-400-qfaKlX {
+  background-color: transparent;
+  height: 7px;
+  object-fit: cover;
+  position: absolute;
+  right: 3px;
+  top: 1px;
+  width: 3px;
+}
+.passcode-pop-up-02 .path-401-qfaKlX {
+  background-color: transparent;
+  height: 6px;
+  object-fit: cover;
+  position: absolute;
+  right: 3px;
+  top: 0px;
+  width: 3px;
+}
+.passcode-pop-up-02 .path-402-qfaKlX {
+  background-color: transparent;
+  height: 5px;
+  object-fit: cover;
+  position: absolute;
+  right: 4px;
+  top: 0px;
+  width: 2px;
+}
+.passcode-pop-up-02 .path-403-qfaKlX {
+  background-color: transparent;
+  height: 4px;
+  object-fit: cover;
+  position: absolute;
+  right: 4px;
+  top: 0px;
+  width: 2px;
+}
+.passcode-pop-up-02 .path-404-qfaKlX {
+  background-color: transparent;
+  height: 3px;
+  object-fit: cover;
+  position: absolute;
+  right: 4px;
+  top: 1px;
+  width: 2px;
+}
+.passcode-pop-up-02 .path-405-GyR4Ir {
+  background-color: transparent;
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 1px);
+}
+.passcode-pop-up-02 .path-406-GyR4Ir {
+  background-color: transparent;
+  bottom: 0px;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 1px;
+}
+.passcode-pop-up-02 .path-41-abm6Gl {
+  background-color: transparent;
+  height: 6px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 26px;
+}
+.passcode-pop-up-02 .path-42-abm6Gl {
+  background-color: transparent;
+  height: 5px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 24px;
+}
+.passcode-pop-up-02 .path-43-abm6Gl {
+  background-color: transparent;
+  height: 4px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 22px;
+}
+.passcode-pop-up-02 .path-44-abm6Gl {
+  background-color: transparent;
+  bottom: 1px;
+  height: 20px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 8px;
+}
+.passcode-pop-up-02 .path-45-abm6Gl {
+  background-color: transparent;
+  bottom: 1px;
+  height: 17px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 8px;
+}
+.passcode-pop-up-02 .path-46-abm6Gl {
+  background-color: transparent;
+  bottom: 1px;
+  height: 15px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 8px;
+}
+.passcode-pop-up-02 .path-47-abm6Gl {
+  background-color: transparent;
+  bottom: 1px;
+  height: 14px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 8px;
+}
+.passcode-pop-up-02 .path-478-sxwoO4 {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.passcode-pop-up-02 .path-48-abm6Gl {
+  background-color: transparent;
+  bottom: 0px;
+  height: 13px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 8px;
+}
+.passcode-pop-up-02 .path-49-abm6Gl {
+  background-color: transparent;
+  bottom: 1px;
+  height: 12px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+.passcode-pop-up-02 .path-5-abm6Gl {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.passcode-pop-up-02 .path-50-abm6Gl {
+  background-color: transparent;
+  bottom: 0px;
+  height: 11px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+.passcode-pop-up-02 .path-51-abm6Gl {
+  background-color: transparent;
+  bottom: 1px;
+  height: 10px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+.passcode-pop-up-02 .path-52-abm6Gl {
+  background-color: transparent;
+  bottom: 1px;
+  height: 9px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+.passcode-pop-up-02 .path-53-abm6Gl {
+  background-color: transparent;
+  bottom: 1px;
+  height: 8px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+.passcode-pop-up-02 .path-54-UU8PjY {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 1px;
+}
+.passcode-pop-up-02 .path-55-UU8PjY {
+  background-color: transparent;
+  bottom: 0px;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 1px;
+}
+.passcode-pop-up-02 .path-6-abm6Gl {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.passcode-pop-up-02 .path-7-abm6Gl {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.passcode-pop-up-02 .path-8-abm6Gl {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.passcode-pop-up-02 .path-9-abm6Gl {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.passcode-pop-up-02 .rectangle-13-26C87W {
+  background-color: var(--gallery);
+  border-radius: 20px;
+  height: 75px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 75px;
+}
+.passcode-pop-up-02 .rectangle-13-RrPysA {
+  background-color: var(--gallery);
+  border-radius: 20px;
+  height: 75px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 75px;
+}
+.passcode-pop-up-02 .rectangle-13-aJskf9 {
+  background-color: var(--gallery);
+  border-radius: 20px;
+  height: 75px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 75px;
+}
+.passcode-pop-up-02 .rectangle-13-aZgzTY {
+  background-color: var(--gallery);
+  border-radius: 20px;
+  height: 75px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 75px;
+}
+.passcode-pop-up-02 .rectangle-13-pUxxfg {
+  background-color: var(--gallery);
+  border-radius: 20px;
+  height: 75px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 75px;
+}
+.passcode-pop-up-02 .rectangle-13-pvl1tn {
+  background-color: var(--gallery);
+  border-radius: 20px;
+  height: 75px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 75px;
+}
+.passcode-pop-up-02 .register-L5QluQ {
+  background-color: transparent;
+  bottom: 68px;
+  height: 39px;
+  left: calc(50.00% - 51px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 102px;
+}
+.passcode-pop-up-02 .repeat-grid-1-L5QluQ {
+  background-color: transparent;
+  bottom: calc(47.20% - 35px);
+  height: 75px;
+  left: 100px;
+  position: absolute;
+  width: calc(100.00% - 204px);
+}
+.passcode-pop-up-02 .resend-code-L5QluQ {
+  background-color: transparent;
+  bottom: calc(35.75% - 9px);
+  color: var(--gallery);
+  font-family: var(--font-family-franklingothicurw-medium);
+  font-size: var(--font-size-xxxxs);
+  font-style: normal;
+  font-weight: 500;
+  height: 26px;
+  left: 103px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: right;
+  white-space: nowrap;
+  width: calc(100.00% - 205px);
+}
+.passcode-pop-up-02 .sign-up-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1705px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 84px;
+  white-space: nowrap;
+  width: auto;
+}
+.passcode-pop-up-02 .sign-up-b-uutton-C61RwL {
+  background-color: var(--christine);
+  border-radius: 50px;
+  height: 77px;
+  left: 1666px;
+  position: absolute;
+  top: 71px;
+  width: 185px;
+}
+.passcode-pop-up-02 .span0-g4yXl9 {
+
+}
+.passcode-pop-up-02 .span1-g4yXl9 {
+
+}
+.passcode-pop-up-02 .we-have-sent-a-e-to-your-email-L5QluQ {
+  background-color: transparent;
+  color: var(--christine);
+  font-family: var(--font-family-franklingothicurw-medium);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 500;
+  height: 34px;
+  left: 106px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: calc(39.64% - 13px);
+  white-space: nowrap;
+  width: calc(100.00% - 205px);
+}
+.passcode-pop-up-02 .x-26C87W {
+  background-color: transparent;
+  border: 0;
+  height: 50px;
+  left: 29px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+  width: 16px;
+}
+.passcode-pop-up-02 .x-26C87W::placeholder {
+  color: #f0680d99;
+}
+.passcode-pop-up-02 .x-RrPysA {
+  background-color: transparent;
+  border: 0;
+  height: 50px;
+  left: 29px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+  width: 16px;
+}
+.passcode-pop-up-02 .x-RrPysA::placeholder {
+  color: #f0680d99;
+}
+.passcode-pop-up-02 .x-aJskf9 {
+  background-color: transparent;
+  border: 0;
+  height: 50px;
+  left: 29px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+  width: 16px;
+}
+.passcode-pop-up-02 .x-aJskf9::placeholder {
+  color: #f0680d99;
+}
+.passcode-pop-up-02 .x-aZgzTY {
+  background-color: transparent;
+  border: 0;
+  height: 50px;
+  left: 29px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+  width: 16px;
+}
+.passcode-pop-up-02 .x-aZgzTY::placeholder {
+  color: #f0680d99;
+}
+.passcode-pop-up-02 .x-pUxxfg {
+  background-color: transparent;
+  border: 0;
+  height: 50px;
+  left: 29px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+  width: 16px;
+}
+.passcode-pop-up-02 .x-pUxxfg::placeholder {
+  color: #f0680d99;
+}
+.passcode-pop-up-02 .x-pvl1tn {
+  background-color: transparent;
+  border: 0;
+  height: 50px;
+  left: 29px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+  width: 16px;
+}
+.passcode-pop-up-02 .x-pvl1tn::placeholder {
+  color: #f0680d99;
+}
