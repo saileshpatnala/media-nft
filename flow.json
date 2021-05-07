@@ -1,0 +1,43 @@
+{
+	"emulators": {
+		"default": {
+			"port": 3569,
+			"serviceAccount": "emulator-account"
+		}
+	},
+	"contracts": {
+		"MediaNFTContract": {
+			"source": "./cadence/contracts/MediaNFTContract.cdc",
+			"aliases": {
+				"emulator": "0xf8d6e0586b0a20c7",
+				"testnet": "0xe311720b19a17550" 
+			}
+		}
+	},
+	"networks": {
+		"emulator": {
+			"host": "127.0.0.1:3569",
+			"chain": "flow-emulator"
+		},
+		"testnet": "access.devnet.nodes.onflow.org:9000"
+	},
+	"accounts": {
+		"emulator-account": {
+			"address": "f8d6e0586b0a20c7",
+			"keys": "9ad41354ad81c1e136ea7ba21fce9995fc39f23c866541545e0017d43dfb7dd8",
+			"chain": "flow-emulator"
+		 },
+		 "testnet-account": {
+			"address": "e311720b19a17550",
+			"keys": "9ad41354ad81c1e136ea7ba21fce9995fc39f23c866541545e0017d43dfb7dd8"
+		 }
+	},
+	"deployments": {
+		"emulator": {
+			"emulator-account": ["MediaNFTContract"]
+		},
+		"testnet": {
+			"testnet-account": ["MediaNFTContract"]
+		}
+	}
+}

@@ -1,0 +1,8 @@
+Generating key pair with signature algorithm:                 ECDSA_P256
+...
+🔐 Private key (⚠️  store safely and don't share with anyone): 9ad41354ad81c1e136ea7ba21fce9995fc39f23c866541545e0017d43dfb7dd8
+🕊️️  Encoded public key (share freely):                         e7c88eef8698abd6744fbf8e9ca4c71a4174b758f567cfb3e3c5487ed4aff8fee080fac2bb022f523245aabb9d3414008c3e056c69368768fb659d1d8b286bcf
+
+Blocto Wallet Address: 0x268a6837cba6e1e8
+
+Flow Testnet Account Address: 0xe311720b19a17550

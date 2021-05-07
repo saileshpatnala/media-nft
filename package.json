@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@onflow/fcl": "^0.0.69",
+    "@onflow/types": "^0.0.4",
+    "axios": "^0.21.1",
+    "form-data": "^4.0.0"
+  }
+}
