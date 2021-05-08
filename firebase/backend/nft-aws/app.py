@@ -128,7 +128,7 @@ def articleScore():
         user_id =  request.json.get('user_id')
         score =  str(request.json.get('score'))
 
-        table = dynamodb.Table('user_articles')
+        table = dynamodb.Table('articles')
         response = table.scan(
             FilterExpression=Key('article_id').eq(article_id)
         )

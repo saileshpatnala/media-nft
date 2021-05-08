@@ -298,6 +298,9 @@ class Screen extends React.Component {
         score: value
       })
     });
+
+    setTimeout(function () { }, 3000);
+
     window.location.replace("/art?img=" + img + "&articleID=" + id);
   }
 
