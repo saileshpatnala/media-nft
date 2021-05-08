@@ -20,7 +20,7 @@ class MintNFT extends Component {
     }
 
     submit() {
-        console.log(mintNFT(this.state.ipfs_url));
+        mintNFT(this.state.ipfs_url)
     }
 
     render() {

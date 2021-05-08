@@ -1,4 +1,4 @@
-import MediaNFTContract from 0xf8d6e0586b0a20c7
+import MediaNFTContract from 0xe311720b19a17550
 
 transaction {
   let receiverRef: &{MediaNFTContract.NFTReceiver}
