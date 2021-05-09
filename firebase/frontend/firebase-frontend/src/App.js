@@ -300,8 +300,7 @@ class Screen extends React.Component {
     });
 
     setTimeout(function () { }, 3000);
-
-    window.location.replace("/art?img=" + img + "&articleID=" + id);
+    this.fetchArticles();
   }
 
   render() {
