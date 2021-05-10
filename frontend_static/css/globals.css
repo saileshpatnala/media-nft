@@ -1,0 +1,99 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@font-face {
+  font-family: "Arial-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://anima-uploads.s3.amazonaws.com/5c58c99ae21217000c4e869b/arial.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Replica-Light";
+  font-style: normal;
+  font-weight: 300;
+  src: url("https://anima-uploads.s3.amazonaws.com/5cf7786b4e5d52f206cace88/Replica_Light.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "FranklinGothic-Medium";
+  font-style: normal;
+  font-weight: 500;
+  src: url("https://anima-uploads.s3.amazonaws.com/5adffb9c55f2da000d6c66b6/Franklin Gothic Medium Regular.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "LaptureDisplay-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("https://anima-uploads.s3.amazonaws.com/5cdbf53811e0b4000a26700f/.R-4-7106-19-tixcdamlqbxtih-jwtl.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "FranklinGothicURW-Medium";
+  font-style: normal;
+  font-weight: 500;
+  src: url("https://anima-uploads.s3.amazonaws.com/projects/5fd93c8c39b320f49e91e355/files/librefranklin-medium.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "FranklinGothicURW-Boo";
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://anima-uploads.s3.amazonaws.com/5adffb9c55f2da000d6c66b6/.12784.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Replica-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("https://anima-uploads.s3.amazonaws.com/5cf7786b4e5d52f206cace88/Replica_Bold.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "FranklinGothicURW-Med";
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://anima-uploads.s3.amazonaws.com/5c5461b7a2a48e000abe6f20/.12785.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "LaptureDisplay-Semibold";
+  font-style: normal;
+  font-weight: 600;
+  src: url("https://anima-uploads.s3.amazonaws.com/5d605a362cc40f2666849062/.6094.otf") format("opentype");
+}
+
+* {
+  box-sizing: border-box;
+}
+.container-center-horizontal {
+  pointer-events: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+.container-center-horizontal > * {
+  pointer-events: auto;
+  flex-shrink: 0;
+}
+.screen * {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+}
+.screen a {
+  text-decoration: none;
+  display: contents;
+}
+.screen div {
+  -webkit-text-size-adjust: none;
+}
+.screen textarea:focus,
+.screen input:focus {
+  outline: none;
+}
+input:focus {
+  outline: none;
+}
