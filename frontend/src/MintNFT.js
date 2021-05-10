@@ -26,7 +26,6 @@ class MintNFT extends Component {
     render() {
         return(
             <div className="App">
-                <p>hello inside</p>
                 <form>
                     <input 
                         type="text" 

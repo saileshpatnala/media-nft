@@ -6,7 +6,7 @@ import PinFileToIPFS from './PinFileToIPFS'
 function App() {
   return (
     <div className="App">
-      {/* <AuthCluster /> */}
+      <AuthCluster />
       {/* <TokenData /> */}
       <PinFileToIPFS />
     </div>

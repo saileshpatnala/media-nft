@@ -99,11 +99,13 @@ class PinFileToIPFS extends Component {
                 <div>
                     {this.state.showMinting?
                         [
-                            <p>IPFS URL: <a href={this.state.uploadedIpfsUrl}>
+                            <div>
+                            <p>IPFS URL: </p>
+                            <a href={this.state.uploadedIpfsUrl}>
                                 {this.state.uploadedIpfsUrl}
                             </a>
-                            </p>,
-                            <MintNFT />
+                            </div>
+                            // <MintNFT />
                         ]
                         : null
                     }

@@ -21,9 +21,8 @@ const CODE = fcl.cdc`
 
         execute {
             let metadata : {String : String} = {
-                "name": "TMD Project Proposal",
-                "rating": "5",
-                "uri": "ipfs://Qmb4MMsKy69DKWA4h3brBRaK3eu74sSupVNrLhVf89hc23"
+                "status": "unverified",
+                "uri": "ipfsUrl"
             }
             let newNFT <- self.minterRef.mintNFT()
         
