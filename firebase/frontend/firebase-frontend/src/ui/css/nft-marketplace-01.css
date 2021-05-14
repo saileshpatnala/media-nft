@@ -1,0 +1,1814 @@
+/* screen - nft-marketplace-01 */
+
+.nft-marketplace-01 {
+  background-color: var(--white);
+  height: 1080px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+.nft-marketplace-01 .article-minting-module-C61RwL {
+  background-color: transparent;
+  height: 274px;
+  left: 1580px;
+  position: absolute;
+  top: 437px;
+  width: 300px;
+}
+.nft-marketplace-01 .articles-M6QzmS {
+  background-color: transparent;
+  height: 27px;
+  left: 51px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: calc(26.09% - 7px);
+  white-space: nowrap;
+  width: calc(100.00% - 87px);
+}
+.nft-marketplace-01 .articles-PZtHVO {
+  background-color: transparent;
+  cursor: pointer;
+  height: 50px;
+  left: 0px;
+  position: absolute;
+  top: calc(33.33% - 17px);
+  width: 100%;
+}
+.nft-marketplace-01 .background-C61RwL {
+  background-color: var(--mirage);
+  height: 1080px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+.nft-marketplace-01 .background-DGxVxJ {
+  background-color: var(--big-stone);
+  border-radius: 12px;
+  box-shadow: -3px 3px 3px #0000004d;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.nft-marketplace-01 .background-may3U0 {
+  background-color: var(--regal-blue);
+  border-radius: 12px;
+  box-shadow: -3px 3px 3px #0000004d;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.nft-marketplace-01 .button-Kn12gP {
+  background-color: var(--dodger-blue);
+  border-radius: 10px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.nft-marketplace-01 .divider-left-C61RwL {
+  background-color: transparent;
+  height: 1080px;
+  left: 374px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 3px;
+}
+.nft-marketplace-01 .divider-right-C61RwL {
+  background-color: transparent;
+  height: 1080px;
+  left: 1544px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 3px;
+}
+.nft-marketplace-01 .gradient-overlay-0xWX7M {
+  background: linear-gradient(180deg, #f0680d 0%, #f0680d 16.23%, rgba(236, 246, 254, 0.08) 76.48%, rgba(255, 255, 255, 0) 100%);
+  background-color: transparent;
+  border-radius: 12px;
+  box-shadow: -3px 3px 3px #0000004d;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.nft-marketplace-01 .gradient-overlay-Mx55Tg {
+  background: linear-gradient(180deg, #f0680d 0%, #f0680d 13.55%, rgba(236, 246, 254, 0.08) 69.95%, rgba(255, 255, 255, 0) 100%);
+  background-color: transparent;
+  border-radius: 12px;
+  box-shadow: -3px 3px 3px #0000004d;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.nft-marketplace-01 .gradient-overlay-QvMIJm {
+  background: linear-gradient(180deg, #08487c 0%, #08487c 15.89%, rgba(236, 246, 254, 0.08) 81.51%, rgba(255, 255, 255, 0) 100%);
+  background-color: transparent;
+  border-radius: 12px;
+  box-shadow: -3px 3px 3px #0000004d;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.nft-marketplace-01 .gradient-overlay-cVQY6O {
+  background: linear-gradient(180deg, #0f8ff8 0%, rgba(64, 166, 249, 0.8) 35.8%, rgba(236, 246, 254, 0.08) 69.95%, rgba(255, 255, 255, 0) 100%);
+  background-color: transparent;
+  border-radius: 12px;
+  box-shadow: -3px 3px 3px #0000004d;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.nft-marketplace-01 .gradient-overlay-z88vlT {
+  background: linear-gradient(180deg, #0f8ff8 0%, rgba(64, 166, 249, 0.8) 35.8%, rgba(236, 246, 254, 0.08) 69.95%, rgba(255, 255, 255, 0) 100%);
+  background-color: transparent;
+  border-radius: 12px;
+  box-shadow: -3px 3px 3px #0000004d;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.nft-marketplace-01 .group-1-abm6Gl {
+  background-color: transparent;
+  bottom: 1px;
+  height: 7px;
+  left: 2px;
+  position: absolute;
+  width: 6px;
+}
+.nft-marketplace-01 .group-10-n2xsv7 {
+  background-color: transparent;
+  height: calc(100.00% - 12px);
+  left: 5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 5px;
+  width: 47px;
+}
+.nft-marketplace-01 .group-11-9cbWtE {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.nft-marketplace-01 .group-12-Kdqw5W {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.nft-marketplace-01 .group-13-n2xsv7 {
+  background-color: transparent;
+  height: calc(100.00% - 12px);
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 48px;
+}
+.nft-marketplace-01 .group-14-S9Rx3h {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.nft-marketplace-01 .group-15-950Kc8 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.nft-marketplace-01 .group-16-n2xsv7 {
+  background-color: transparent;
+  bottom: 10px;
+  height: 1px;
+  left: 23.96%;
+  mix-blend-mode: normal;
+  position: absolute;
+  width: 2px;
+}
+.nft-marketplace-01 .group-17-qfaKlX {
+  background-color: transparent;
+  height: 2px;
+  position: absolute;
+  right: 5px;
+  top: 1px;
+  width: 1px;
+}
+.nft-marketplace-01 .group-18-PfcYZ7 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.nft-marketplace-01 .group-19-MgiJTR {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.nft-marketplace-01 .group-2-DxuxZV {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.nft-marketplace-01 .group-20-n2xsv7 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 56px;
+  mix-blend-mode: normal;
+  position: absolute;
+  right: 0px;
+  width: 44px;
+}
+.nft-marketplace-01 .group-21-9O9mxD {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.nft-marketplace-01 .group-22-JQYI34 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.nft-marketplace-01 .group-23-n2xsv7 {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: calc(100.00% - 12px);
+}
+.nft-marketplace-01 .group-24-n2xsv7 {
+  background-color: transparent;
+  height: calc(100.00% - 10px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+.nft-marketplace-01 .group-25-iQSwSs {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.nft-marketplace-01 .group-26-Xc6uzo {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.nft-marketplace-01 .group-27-n2xsv7 {
+  background-color: transparent;
+  height: calc(100.00% - 8px);
+  left: 5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 49px;
+}
+.nft-marketplace-01 .group-28-al0DN3 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.nft-marketplace-01 .group-29-hsHRXs {
+  background-color: transparent;
+  height: 68px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 64px;
+}
+.nft-marketplace-01 .group-3-s4tzg4 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.nft-marketplace-01 .group-30-may3U0 {
+  background-color: transparent;
+  bottom: 19px;
+  cursor: pointer;
+  height: 56px;
+  left: 15px;
+  position: absolute;
+  width: calc(100.00% - 30px);
+}
+.nft-marketplace-01 .group-4-n2xsv7 {
+  background-color: transparent;
+  height: calc(100.00% - 14px);
+  mix-blend-mode: normal;
+  position: absolute;
+  right: 8px;
+  top: 10px;
+  width: 43px;
+}
+.nft-marketplace-01 .group-5-ILFXfk {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.nft-marketplace-01 .group-6-0CjL7T {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.nft-marketplace-01 .group-7-n2xsv7 {
+  background-color: transparent;
+  height: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  right: calc(33.30% - 1px);
+  top: 2px;
+  width: 2px;
+}
+.nft-marketplace-01 .group-8-p8t3x7 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.nft-marketplace-01 .group-9-5FGL97 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.nft-marketplace-01 .header-text-0xWX7M {
+  background-color: transparent;
+  height: 152px;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 26px;
+  width: calc(100.00% - 55px);
+}
+.nft-marketplace-01 .header-text-Mx55Tg {
+  background-color: transparent;
+  height: 152px;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 26px;
+  width: calc(100.00% - 55px);
+}
+.nft-marketplace-01 .header-text-QvMIJm {
+  background-color: transparent;
+  height: 152px;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 26px;
+  width: calc(100.00% - 55px);
+}
+.nft-marketplace-01 .header-text-cVQY6O {
+  background-color: transparent;
+  height: 152px;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 26px;
+  width: calc(100.00% - 55px);
+}
+.nft-marketplace-01 .header-text-z88vlT {
+  background-color: transparent;
+  height: 152px;
+  left: 50px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 40px;
+  width: calc(100.00% - 98px);
+}
+.nft-marketplace-01 .icon-DGxVxJ {
+  background-color: transparent;
+  height: 20px;
+  object-fit: cover;
+  position: absolute;
+  right: 13px;
+  top: 9px;
+  width: 20px;
+}
+.nft-marketplace-01 .icon-xSG5Dw {
+  background-color: transparent;
+  height: 7px;
+  object-fit: cover;
+  position: absolute;
+  right: 19px;
+  top: 15px;
+  width: 9px;
+}
+.nft-marketplace-01 .large-article-display-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 505px;
+  left: 410px;
+  position: absolute;
+  top: 177px;
+  width: 1100px;
+}
+.nft-marketplace-01 .log-out-mIxXJS {
+  background-color: transparent;
+  height: 27px;
+  left: 51px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: calc(26.09% - 7px);
+  white-space: nowrap;
+  width: calc(100.00% - 87px);
+}
+.nft-marketplace-01 .logo-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 68px;
+  left: 71px;
+  position: absolute;
+  top: 78px;
+  width: 212px;
+}
+.nft-marketplace-01 .logo-exFKkL {
+  background-color: transparent;
+  height: 68px;
+  left: 0px;
+  position: relative;
+  top: -0px;
+  width: 212px;
+}
+.nft-marketplace-01 .logout-PZtHVO {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 50px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.nft-marketplace-01 .marketplace-K5Lepo {
+  background-color: transparent;
+  height: 27px;
+  left: 51px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: calc(26.09% - 7px);
+  white-space: nowrap;
+  width: calc(100.00% - 87px);
+}
+.nft-marketplace-01 .marketplace-PZtHVO {
+  background-color: transparent;
+  height: 50px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.nft-marketplace-01 .mask-group-2-z88vlT {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.nft-marketplace-01 .mask-group-3-0xWX7M {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.nft-marketplace-01 .mask-group-3-Mx55Tg {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.nft-marketplace-01 .mask-group-3-QvMIJm {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.nft-marketplace-01 .mask-group-3-cVQY6O {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.nft-marketplace-01 .nav-menu-C61RwL {
+  background-color: transparent;
+  height: 275px;
+  left: 15px;
+  position: absolute;
+  top: 177px;
+  width: 325px;
+}
+.nft-marketplace-01 .path-1-hsHRXs {
+  background-color: transparent;
+  height: 43px;
+  left: 84px;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 45px;
+}
+.nft-marketplace-01 .path-10-abm6Gl {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.nft-marketplace-01 .path-11-abm6Gl {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.nft-marketplace-01 .path-12-abm6Gl {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.nft-marketplace-01 .path-13-abm6Gl {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.nft-marketplace-01 .path-14-abm6Gl {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.nft-marketplace-01 .path-15-abm6Gl {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.nft-marketplace-01 .path-16-abm6Gl {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.nft-marketplace-01 .path-17-abm6Gl {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.nft-marketplace-01 .path-18-abm6Gl {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.nft-marketplace-01 .path-19-abm6Gl {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.nft-marketplace-01 .path-2-hsHRXs {
+  background-color: transparent;
+  height: 43px;
+  left: 138px;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 30px;
+}
+.nft-marketplace-01 .path-20-abm6Gl {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.nft-marketplace-01 .path-21-abm6Gl {
+  background-color: transparent;
+  height: 29px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 2px);
+}
+.nft-marketplace-01 .path-22-abm6Gl {
+  background-color: transparent;
+  height: 26px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 3px);
+}
+.nft-marketplace-01 .path-23-abm6Gl {
+  background-color: transparent;
+  height: 24px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+.nft-marketplace-01 .path-24-abm6Gl {
+  background-color: transparent;
+  height: 22px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+.nft-marketplace-01 .path-25-abm6Gl {
+  background-color: transparent;
+  height: 21px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 5px);
+}
+.nft-marketplace-01 .path-26-abm6Gl {
+  background-color: transparent;
+  height: 20px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 6px);
+}
+.nft-marketplace-01 .path-27-abm6Gl {
+  background-color: transparent;
+  height: 18px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 6px);
+}
+.nft-marketplace-01 .path-28-abm6Gl {
+  background-color: transparent;
+  height: 17px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 36px;
+}
+.nft-marketplace-01 .path-29-abm6Gl {
+  background-color: transparent;
+  height: 16px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 36px;
+}
+.nft-marketplace-01 .path-3-hsHRXs {
+  background-color: transparent;
+  height: 43px;
+  left: 176px;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 36px;
+}
+.nft-marketplace-01 .path-30-abm6Gl {
+  background-color: transparent;
+  height: 15px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 35px;
+}
+.nft-marketplace-01 .path-31-abm6Gl {
+  background-color: transparent;
+  height: 14px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 34px;
+}
+.nft-marketplace-01 .path-32-abm6Gl {
+  background-color: transparent;
+  height: 14px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 34px;
+}
+.nft-marketplace-01 .path-33-abm6Gl {
+  background-color: transparent;
+  height: 13px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 33px;
+}
+.nft-marketplace-01 .path-34-abm6Gl {
+  background-color: transparent;
+  height: 12px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 32px;
+}
+.nft-marketplace-01 .path-35-abm6Gl {
+  background-color: transparent;
+  height: 11px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 31px;
+}
+.nft-marketplace-01 .path-355-qfaKlX {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.nft-marketplace-01 .path-356-qfaKlX {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.nft-marketplace-01 .path-357-qfaKlX {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.nft-marketplace-01 .path-358-qfaKlX {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.nft-marketplace-01 .path-359-qfaKlX {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.nft-marketplace-01 .path-36-abm6Gl {
+  background-color: transparent;
+  height: 10px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 30px;
+}
+.nft-marketplace-01 .path-360-qfaKlX {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.nft-marketplace-01 .path-361-qfaKlX {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.nft-marketplace-01 .path-362-qfaKlX {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.nft-marketplace-01 .path-363-qfaKlX {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.nft-marketplace-01 .path-364-qfaKlX {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.nft-marketplace-01 .path-365-qfaKlX {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 1px);
+}
+.nft-marketplace-01 .path-366-qfaKlX {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 1px);
+}
+.nft-marketplace-01 .path-367-qfaKlX {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 1px);
+}
+.nft-marketplace-01 .path-368-qfaKlX {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 1px);
+}
+.nft-marketplace-01 .path-369-qfaKlX {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 1px);
+}
+.nft-marketplace-01 .path-37-abm6Gl {
+  background-color: transparent;
+  height: 9px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 30px;
+}
+.nft-marketplace-01 .path-370-qfaKlX {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 2px);
+}
+.nft-marketplace-01 .path-371-qfaKlX {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 2px);
+}
+.nft-marketplace-01 .path-372-qfaKlX {
+  background-color: transparent;
+  bottom: 1px;
+  height: 34px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 5px);
+}
+.nft-marketplace-01 .path-373-qfaKlX {
+  background-color: transparent;
+  bottom: 1px;
+  height: 30px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 6px);
+}
+.nft-marketplace-01 .path-374-qfaKlX {
+  background-color: transparent;
+  bottom: 1px;
+  height: 28px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 37px;
+}
+.nft-marketplace-01 .path-375-qfaKlX {
+  background-color: transparent;
+  bottom: 1px;
+  height: 26px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 36px;
+}
+.nft-marketplace-01 .path-376-qfaKlX {
+  background-color: transparent;
+  bottom: 1px;
+  height: 25px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 35px;
+}
+.nft-marketplace-01 .path-377-qfaKlX {
+  background-color: transparent;
+  bottom: 1px;
+  height: 23px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 34px;
+}
+.nft-marketplace-01 .path-378-qfaKlX {
+  background-color: transparent;
+  bottom: 1px;
+  height: 22px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 34px;
+}
+.nft-marketplace-01 .path-379-qfaKlX {
+  background-color: transparent;
+  bottom: 1px;
+  height: 21px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 33px;
+}
+.nft-marketplace-01 .path-38-abm6Gl {
+  background-color: transparent;
+  height: 8px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 29px;
+}
+.nft-marketplace-01 .path-380-qfaKlX {
+  background-color: transparent;
+  bottom: 1px;
+  height: 20px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 32px;
+}
+.nft-marketplace-01 .path-381-qfaKlX {
+  background-color: transparent;
+  bottom: 1px;
+  height: 19px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 31px;
+}
+.nft-marketplace-01 .path-382-qfaKlX {
+  background-color: transparent;
+  bottom: 1px;
+  height: 18px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 31px;
+}
+.nft-marketplace-01 .path-383-qfaKlX {
+  background-color: transparent;
+  bottom: 1px;
+  height: 17px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 30px;
+}
+.nft-marketplace-01 .path-384-qfaKlX {
+  background-color: transparent;
+  bottom: 1px;
+  height: 16px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 29px;
+}
+.nft-marketplace-01 .path-385-qfaKlX {
+  background-color: transparent;
+  bottom: 1px;
+  height: 15px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 28px;
+}
+.nft-marketplace-01 .path-386-qfaKlX {
+  background-color: transparent;
+  bottom: 1px;
+  height: 14px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 27px;
+}
+.nft-marketplace-01 .path-387-qfaKlX {
+  background-color: transparent;
+  bottom: 0px;
+  height: 13px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 26px;
+}
+.nft-marketplace-01 .path-388-qfaKlX {
+  background-color: transparent;
+  bottom: 1px;
+  height: 12px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 26px;
+}
+.nft-marketplace-01 .path-389-qfaKlX {
+  background-color: transparent;
+  bottom: 1px;
+  height: 11px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 25px;
+}
+.nft-marketplace-01 .path-39-abm6Gl {
+  background-color: transparent;
+  height: 8px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 28px;
+}
+.nft-marketplace-01 .path-390-qfaKlX {
+  background-color: transparent;
+  bottom: 1px;
+  height: 10px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 23px;
+}
+.nft-marketplace-01 .path-391-qfaKlX {
+  background-color: transparent;
+  bottom: 1px;
+  height: 9px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 22px;
+}
+.nft-marketplace-01 .path-392-qfaKlX {
+  background-color: transparent;
+  bottom: 1px;
+  height: 8px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 21px;
+}
+.nft-marketplace-01 .path-393-qfaKlX {
+  background-color: transparent;
+  bottom: 1px;
+  height: 7px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 19px;
+}
+.nft-marketplace-01 .path-394-qfaKlX {
+  background-color: transparent;
+  bottom: 1px;
+  height: 6px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 17px;
+}
+.nft-marketplace-01 .path-395-qfaKlX {
+  background-color: transparent;
+  height: 16px;
+  object-fit: cover;
+  position: absolute;
+  right: 2px;
+  top: 1px;
+  width: 4px;
+}
+.nft-marketplace-01 .path-396-qfaKlX {
+  background-color: transparent;
+  height: 13px;
+  object-fit: cover;
+  position: absolute;
+  right: 2px;
+  top: 0px;
+  width: 3px;
+}
+.nft-marketplace-01 .path-397-qfaKlX {
+  background-color: transparent;
+  height: 11px;
+  object-fit: cover;
+  position: absolute;
+  right: 3px;
+  top: 1px;
+  width: 3px;
+}
+.nft-marketplace-01 .path-398-qfaKlX {
+  background-color: transparent;
+  height: 9px;
+  object-fit: cover;
+  position: absolute;
+  right: 3px;
+  top: 1px;
+  width: 3px;
+}
+.nft-marketplace-01 .path-399-qfaKlX {
+  background-color: transparent;
+  height: 8px;
+  object-fit: cover;
+  position: absolute;
+  right: 3px;
+  top: 0px;
+  width: 3px;
+}
+.nft-marketplace-01 .path-4-abm6Gl {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.nft-marketplace-01 .path-40-abm6Gl {
+  background-color: transparent;
+  height: 7px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 27px;
+}
+.nft-marketplace-01 .path-400-qfaKlX {
+  background-color: transparent;
+  height: 7px;
+  object-fit: cover;
+  position: absolute;
+  right: 3px;
+  top: 1px;
+  width: 3px;
+}
+.nft-marketplace-01 .path-401-qfaKlX {
+  background-color: transparent;
+  height: 6px;
+  object-fit: cover;
+  position: absolute;
+  right: 3px;
+  top: 1px;
+  width: 3px;
+}
+.nft-marketplace-01 .path-402-qfaKlX {
+  background-color: transparent;
+  height: 5px;
+  object-fit: cover;
+  position: absolute;
+  right: 4px;
+  top: 0px;
+  width: 2px;
+}
+.nft-marketplace-01 .path-403-qfaKlX {
+  background-color: transparent;
+  height: 4px;
+  object-fit: cover;
+  position: absolute;
+  right: 4px;
+  top: 1px;
+  width: 2px;
+}
+.nft-marketplace-01 .path-404-qfaKlX {
+  background-color: transparent;
+  height: 3px;
+  object-fit: cover;
+  position: absolute;
+  right: 4px;
+  top: 1px;
+  width: 2px;
+}
+.nft-marketplace-01 .path-405-GyR4Ir {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 1px);
+}
+.nft-marketplace-01 .path-406-GyR4Ir {
+  background-color: transparent;
+  bottom: 0px;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 1px;
+}
+.nft-marketplace-01 .path-41-abm6Gl {
+  background-color: transparent;
+  height: 6px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 26px;
+}
+.nft-marketplace-01 .path-42-abm6Gl {
+  background-color: transparent;
+  height: 5px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 24px;
+}
+.nft-marketplace-01 .path-43-abm6Gl {
+  background-color: transparent;
+  height: 4px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 22px;
+}
+.nft-marketplace-01 .path-44-abm6Gl {
+  background-color: transparent;
+  bottom: 1px;
+  height: 20px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 8px;
+}
+.nft-marketplace-01 .path-45-abm6Gl {
+  background-color: transparent;
+  bottom: 0px;
+  height: 17px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 8px;
+}
+.nft-marketplace-01 .path-46-abm6Gl {
+  background-color: transparent;
+  bottom: 1px;
+  height: 15px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 8px;
+}
+.nft-marketplace-01 .path-47-abm6Gl {
+  background-color: transparent;
+  bottom: 1px;
+  height: 14px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 8px;
+}
+.nft-marketplace-01 .path-478-sxwoO4 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.nft-marketplace-01 .path-48-abm6Gl {
+  background-color: transparent;
+  bottom: 0px;
+  height: 13px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 8px;
+}
+.nft-marketplace-01 .path-49-abm6Gl {
+  background-color: transparent;
+  bottom: 1px;
+  height: 12px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+.nft-marketplace-01 .path-5-abm6Gl {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.nft-marketplace-01 .path-50-abm6Gl {
+  background-color: transparent;
+  bottom: 0px;
+  height: 11px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+.nft-marketplace-01 .path-51-abm6Gl {
+  background-color: transparent;
+  bottom: 0px;
+  height: 10px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+.nft-marketplace-01 .path-52-abm6Gl {
+  background-color: transparent;
+  bottom: 1px;
+  height: 9px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+.nft-marketplace-01 .path-53-abm6Gl {
+  background-color: transparent;
+  bottom: 0px;
+  height: 8px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+.nft-marketplace-01 .path-54-UU8PjY {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+.nft-marketplace-01 .path-55-UU8PjY {
+  background-color: transparent;
+  bottom: 0px;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 1px;
+}
+.nft-marketplace-01 .path-6-abm6Gl {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.nft-marketplace-01 .path-7-abm6Gl {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.nft-marketplace-01 .path-8-abm6Gl {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.nft-marketplace-01 .path-9-abm6Gl {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.nft-marketplace-01 .search-bar-C61RwL {
+  background-color: transparent;
+  height: 50px;
+  left: 410px;
+  position: absolute;
+  top: 87px;
+  width: 450px;
+}
+.nft-marketplace-01 .search-bar-Ek8AKr {
+  background-color: var(--outer-space);
+  border-radius: 15px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.nft-marketplace-01 .search-bar-K5Lepo {
+  background-color: var(--dodger-blue);
+  border-radius: 15px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.nft-marketplace-01 .search-bar-M6QzmS {
+  background-color: var(--outer-space);
+  border-radius: 15px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.nft-marketplace-01 .search-bar-mIxXJS {
+  background-color: var(--outer-space);
+  border-radius: 15px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.nft-marketplace-01 .search-bar-raZGPH {
+  background-color: var(--outer-space);
+  border-radius: 25px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.nft-marketplace-01 .search-raZGPH {
+  background-color: transparent;
+  border: 0;
+  height: 34px;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: calc(37.50% - 13px);
+  white-space: nowrap;
+  width: calc(100.00% - 86px);
+}
+.nft-marketplace-01 .search-raZGPH::placeholder {
+  color: #0f8ff899;
+}
+.nft-marketplace-01 .settings-Ek8AKr {
+  background-color: transparent;
+  height: 27px;
+  left: 51px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: calc(26.09% - 7px);
+  white-space: nowrap;
+  width: calc(100.00% - 87px);
+}
+.nft-marketplace-01 .settings-PZtHVO {
+  background-color: transparent;
+  bottom: calc(33.33% - 17px);
+  height: 50px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.nft-marketplace-01 .small-article-display-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 325px;
+  left: 409px;
+  position: absolute;
+  top: 719px;
+  width: 249px;
+}
+.nft-marketplace-01 .small-article-display-QxM5SU {
+  background-color: transparent;
+  cursor: pointer;
+  height: 325px;
+  left: 1267px;
+  position: absolute;
+  top: 719px;
+  width: 249px;
+}
+.nft-marketplace-01 .small-article-display-VMr6Om {
+  background-color: transparent;
+  cursor: pointer;
+  height: 325px;
+  left: 695px;
+  position: absolute;
+  top: 719px;
+  width: 249px;
+}
+.nft-marketplace-01 .small-article-display-mzXdH9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 325px;
+  left: 981px;
+  position: absolute;
+  top: 719px;
+  width: 249px;
+}
+.nft-marketplace-01 .span0-M5xQMd {
+
+}
+.nft-marketplace-01 .span0-TvolEX {
+
+}
+.nft-marketplace-01 .span0-VBRFVu {
+
+}
+.nft-marketplace-01 .span0-aujg1h {
+
+}
+.nft-marketplace-01 .span0-pcDoAk {
+
+}
+.nft-marketplace-01 .span0-zxLxa6 {
+
+}
+.nft-marketplace-01 .span1-M5xQMd {
+
+}
+.nft-marketplace-01 .span1-TvolEX {
+
+}
+.nft-marketplace-01 .span1-VBRFVu {
+
+}
+.nft-marketplace-01 .span1-aujg1h {
+
+}
+.nft-marketplace-01 .span1-pcDoAk {
+
+}
+.nft-marketplace-01 .span1-zxLxa6 {
+
+}
+.nft-marketplace-01 .span2-M5xQMd {
+
+}
+.nft-marketplace-01 .span2-TvolEX {
+
+}
+.nft-marketplace-01 .span2-VBRFVu {
+
+}
+.nft-marketplace-01 .span2-aujg1h {
+
+}
+.nft-marketplace-01 .span2-pcDoAk {
+
+}
+.nft-marketplace-01 .span2-zxLxa6 {
+
+}
+.nft-marketplace-01 .submit-Kn12gP {
+  background-color: transparent;
+  height: 33px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  top: calc(26.09% - 9px);
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.nft-marketplace-01 .user-information-module-C61RwL {
+  background-color: transparent;
+  height: 315px;
+  left: 1580px;
+  position: absolute;
+  top: 87px;
+  width: 300px;
+}
+.nft-marketplace-01 .user-information-text-DGxVxJ {
+  background-color: transparent;
+  height: 257px;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 54px;
+  width: calc(100.00% - 27px);
+}
+.nft-marketplace-01 .user-information-text-may3U0 {
+  background-color: transparent;
+  height: 47px;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: calc(27.25% - 13px);
+  width: calc(100.00% - 28px);
+}
