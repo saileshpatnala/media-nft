@@ -10,19 +10,19 @@ const CODE = fcl.cdc`
         let minterRef: &MediaNFTContract.NFTMinter
 
         prepare(acct: AuthAccount) {
+            self.minterRef = acct.borrow<&MediaNFTContract.NFTMinter>(from: /storage/NFTMinter)
+                ?? panic("could not borrow minter reference")
+
             self.receiverRef = acct.getCapability<&{MediaNFTContract.NFTReceiver}>(/public/NFTReceiver)
                 .borrow()
                 ?? panic("Could not borrow receiver reference")        
             
-            self.minterRef = acct.borrow<&MediaNFTContract.NFTMinter>(from: /storage/NFTMinter)
-                ?? panic("could not borrow minter reference")
         }
 
         execute {
             let metadata : {String : String} = {
-                "name": "TMD Project Proposal",
-                "rating": "5",
-                "uri": "ipfs://Qmb4MMsKy69DKWA4h3brBRaK3eu74sSupVNrLhVf89hc23"
+                "status": "unverified",
+                "uri": "ipfsUrl"
             }
             let newNFT <- self.minterRef.mintNFT()
         
@@ -33,7 +33,7 @@ const CODE = fcl.cdc`
     }`
 
 export function mintNFT(ipfsUrl, opts = {}) {
-    console.log("minting NFT")
+    console.log("minting NFT");
     return tx([
         fcl.transaction(CODE),
         fcl.args([

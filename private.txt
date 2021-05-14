@@ -4,5 +4,15 @@ Generating key pair with signature algorithm:                 ECDSA_P256
 🕊️️  Encoded public key (share freely):                         e7c88eef8698abd6744fbf8e9ca4c71a4174b758f567cfb3e3c5487ed4aff8fee080fac2bb022f523245aabb9d3414008c3e056c69368768fb659d1d8b286bcf
 
 Blocto Wallet Address: 0x268a6837cba6e1e8
+0xed6630e21e6e7644 - sgp78@cornell.edu
 
 Flow Testnet Account Address: 0xe311720b19a17550
+
+REACT_APP_ACCESS_NODE=http://access.devnet.nodes.onflow.org:9000
+REACT_APP_WALLET_DISCOVERY=https://flow-wallet-testnet.blocto.app/authn
+REACT_APP_CONTRACT_MEDIA_NFT=0xe311720b19a17550
+
+# localhost flow and wallet emulator
+REACT_APP_ACCESS_NODE=http://localhost:8080
+REACT_APP_WALLET_DISCOVERY=http://localhost:3001/fcl/authz
+REACT_APP_CONTRACT_MEDIA_NFT=0xf8d6e0586b0a20c7

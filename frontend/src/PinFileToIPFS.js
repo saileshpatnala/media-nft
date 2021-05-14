@@ -59,6 +59,7 @@ class PinFileToIPFS extends Component {
                 //handle response here
                 if (response.status === 200) {
                     console.log(response);
+                    console.log(`https://ipfs.io/ipfs/${response.data.IpfsHash}`)
                     return `https://ipfs.io/ipfs/${response.data.IpfsHash}`
                 }
                 console.log(response);
@@ -96,17 +97,19 @@ class PinFileToIPFS extends Component {
                     </div>
                 </form>
                 <div>
-                        {this.state.showMinting?
-                            [
-                                <p>IPFS URL: <a href={this.state.uploadedIpfsUrl}>
-                                    {this.state.uploadedIpfsUrl}
-                                </a>
-                                </p>,
-                                <MintNFT />
-                            ]
-                            : null
-                        }
-                    </div>
+                    {this.state.showMinting?
+                        [
+                            <div>
+                            <p>IPFS URL: </p>
+                            <a href={this.state.uploadedIpfsUrl}>
+                                {this.state.uploadedIpfsUrl}
+                            </a>
+                            </div>
+                            // <MintNFT />
+                        ]
+                        : null
+                    }
+                </div>
             </div> 
         );
     }

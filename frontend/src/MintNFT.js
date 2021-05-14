@@ -20,13 +20,12 @@ class MintNFT extends Component {
     }
 
     submit() {
-        console.log(mintNFT(this.state.ipfs_url));
+        mintNFT(this.state.ipfs_url)
     }
 
     render() {
         return(
             <div className="App">
-                <p>hello inside</p>
                 <form>
                     <input 
                         type="text" 
